@@ -1,3 +1,6 @@
+# ⚠️ THIS PROJECT'S SOURCE CODE HAS BEEN DELETED
+### Since Boosteroid already implemented this, proved to be trustworthy, we decided to remove the contents of it.
+
 # Boosteroid-Rich-Presence
 A Boosteroid Rich Presence. It updates in real-time, including: Browsing Games status, Game Logo, What is playing and for how much time. Including: Application Executable (.exe) in System Tray to not bother the people and a Chrome Extension.
 
